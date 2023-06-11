@@ -1,6 +1,5 @@
-<div style="display: block; text-align: center;">
-    <img src="./preview/preview.jpg" alt="preview">
-</div>
+<img src="./preview/preview.jpg" alt="preview" style='display: block; margin: 0 auto;'>
+
 
 Классический бильярд на двоих, реализованный с помощью технологии ThreeJS
 
